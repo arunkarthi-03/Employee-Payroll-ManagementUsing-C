@@ -234,6 +234,4 @@ Made with ❤️ and `printf()` statements
 
 [![GitHub](https://img.shields.io/badge/GitHub-arunkarthi--03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arunkarthi-03)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
-
 </div>
